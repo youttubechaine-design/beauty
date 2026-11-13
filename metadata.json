@@ -1,0 +1,6 @@
+{
+  "name": "L’ONGLERIE MOBILE Treichville",
+  "description": "Site vitrine officiel de L’ONGLERIE MOBILE Treichville à Abidjan : soins des ongles en atelier et à domicile, galerie photo Google Maps, horaires, avis clients et localisation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
